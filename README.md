@@ -1,5 +1,5 @@
 # About Me
-Hello, my name is Nathan. I'm a computer science graduate student at Florida Polytechnic University and a software engineer at [Fadr](https://fadr.com).
+Hello, my name is Nathan. I'm a software engineer at [Fadr](https://fadr.com).
 
 I also have a personal website: [https://ncp.one](https://ncp.one). It mostly exists as a way to experiment with visual design, maybe I will write something one day.
 
